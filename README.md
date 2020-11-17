@@ -7,3 +7,6 @@ My studies <br/><br/>
 :hearts: Scikit-Learn  </t> ![%0](https://progress-bar.dev/0) <br/>
 :hearts: Seaborn  </t> ![%0](https://progress-bar.dev/0) <br/>
 
+<br/><br/><br/>
+----
+Thanks to [Keith Galli](https://www.youtube.com/playlist?list=PLFCB5Dp81iNVmuoGIqcT5oF4K-7kTI5vp)
